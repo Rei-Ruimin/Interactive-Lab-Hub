@@ -184,14 +184,15 @@ Only now should you start worrying about what the device should look like. Devel
 Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
 
 **Include sketches of what your devices might look like here.**
-Clip-on device with screen
+ - Clip-on device with screen
+
 ![Screenshot](lab1/8.png)
 
-Embedded screen 1
+ - Embedded screen 1
 
 ![Screenshot](lab1/9.png)
 
-Embedded screen 2
+ - Embedded screen 2
 
 ![Screenshot](lab1/10.png)
 
