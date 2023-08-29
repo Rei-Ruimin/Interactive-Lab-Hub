@@ -4,15 +4,10 @@
 
 \*\***NAME OF COLLABORATORS HERE**\*\*
 
-\\Kazim Jafri (khj23)
-
-\\Re Chen (rc884)
-
-\\Thomas Wiener (tfw29)
-
-\\Zixin Li (zl865)
-
-Link to our group's work: https://docs.google.com/document/d/1IF-8p7AqVKzw7TdsoV66ZMA1laeS3h9H1282nL8gCd0
+_Kazim Jafri (khj23)_ <br>
+_Re (rc884)_ <br>
+_Thomas (tfw29)_ <br>
+_Zixin (zl865)_ <br>
 
 In the original stage production of Peter Pan, Tinker Bell was represented by a darting light created by a small handheld mirror off-stage, reflecting a little circle of light from a powerful lamp. Tinkerbell communicates her presence through this light to the other characters. See more info [here](https://en.wikipedia.org/wiki/Tinker_Bell). 
 
@@ -81,66 +76,66 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 
-Storyboard 1: Maze
-Setting: Treasure Island (Mysterious Maze Treasure Hunt)
-Players: Guy1 (unfamiliar with the map), Guy2 (familiar with the map)
-Activity: They are trying to figure out how to use the map. The map lights up the closer you get to the treasure. 
-Goals: To find the treasure using the map (our devices), which gradually illuminates the area ahead to help the user find the correct path.
+**Storyboard 1: Maze**
+- Setting: Treasure Island (Mysterious Maze Treasure Hunt)
+- Players: Guy1 (unfamiliar with the map), Guy2 (familiar with the map)
+- Activity: They are trying to figure out how to use the map. The map lights up the closer you get to the treasure. 
+- Goals: To find the treasure using the map (our devices), which gradually illuminates the area ahead to help the user find the correct path. <br>
 A user with a map (dude 1) is exploring unknown terrain. His map changes colors, but as he approaches the treasure he so dearly desires, the map becomes brighter and brighter until it is almost blinding. He is close to the treasure he is looking for.
 
-![Screenshot](lab1/1.png)
+![Screenshot](image7.jpg)
 
-Storyboard 2: Treasure hunt again, no maze
-Setting: Treasure Island (Mysterious Treasure Hunt)
-Players: explorer with lighting-up map 
-Activity: They are exploring the island. The map lights up corresponding to the colors of the natural environment. However, when close to treasure, the map will light up yellow 
-Goals: To find the treasure using the map (our devices), which gradually illuminates the area ahead to help the user find the correct path.
+**Storyboard 2: Treasure hunt again, no maze**
+- Setting: Treasure Island (Mysterious Treasure Hunt)
+- Players: explorer with lighting-up map 
+- Activity: They are exploring the island. The map lights up corresponding to the colors of the natural environment. However, when close to treasure, the map will light up yellow 
+- Goals: To find the treasure using the map (our devices), which gradually illuminates the area ahead to help the user find the correct path.
 
-![Screenshot](lab1/2.png)
+![Screenshot](image5.jpg)
 
-Storyboard 3: Pet feeding reminder
-Setting: The homes of pet owners.
-Players: The owner of a pet (e.g. a dog or cat), pet.
-Activity: The device can be placed at a place where the user will often be around, for example beside their bed. When there is not enough food or water in the pet’s bowl, the device will light up according to what is about to run out (e.g. yellow for food and blue for water). This way, the user will remember to add more food/water for the pet even if they do not walk to the pet’s bowls.
-Goals: To help remind pet owners to add food/water for their pets. 
+**Storyboard 3: Pet feeding reminder**
+- Setting: The homes of pet owners.
+- Players: The owner of a pet (e.g. a dog or cat), pet.
+- Activity: The device can be placed at a place where the user will often be around, for example beside their bed. When there is not enough food or water in the pet’s bowl, the device will light up according to what is about to run out (e.g. yellow for food and blue for water). This way, the user will remember to add more food/water for the pet even if they do not walk to the pet’s bowls.
+- Goals: To help remind pet owners to add food/water for their pets. 
 
-![Screenshot](lab1/3.png)
+![Screenshot](image1.jpg)
 
 
-Storyboard 4: Trash Sorter
-Setting: The refuse room in buildings in Shanghai. (Shanghai has a mandatory sorting scheme, requiring residents to separate trash into four categories: recyclable, hazardous, wet (perishable) and dry (other) waste, and many people are confused by these categories)
-Players: A person who is wanting to throw away trash according to categories.
+**Storyboard 4: Trash Sorte**r
+- Setting: The refuse room in buildings in Shanghai. (Shanghai has a mandatory sorting scheme, requiring residents to separate trash into four categories: recyclable, hazardous, wet (perishable) and dry (other) waste, and many people are confused by these categories)
+- Players: A person who is wanting to throw away trash according to categories.
 Activity: When the user shows the trash to the trash sorter, the trash sorter will respond to which kind of trash it is by chasing color. For example blue for recyclable trash, green for wet trash, etc.
-Goals: To help the user categorize the kinds of trash, so they can throw trash into the correct bins. 
+- Goals: To help the user categorize the kinds of trash, so they can throw trash into the correct bins. 
 
-![Screenshot](lab1/4.png)
+![Screenshot](image4.jpg)
 
 
-Storyboard 5: Magical Reminder Clock
-Setting: Bedroom of any person with a magical clock
-Players: A person and his magical reminder clock
-Activity: The magical reminder flashes colors to remind the user to do several actions. It changes colors and makes noise to tell the user what to do. Eg. 
-Goals: Get the user to do the action that the reminder is trying to remind the user to do. 
+**Storyboard 5: Magical Reminder Clock**
+- Setting: Bedroom of any person with a magical clock
+- Players: A person and his magical reminder clock
+- Activity: The magical reminder flashes colors to remind the user to do several actions. It changes colors and makes noise to tell the user what to do. Eg. 
+- Goals: Get the user to do the action that the reminder is trying to remind the user to do. 
 
-![Screenshot](lab1/5.png)
+![Screenshot](image9.jpg)
 
-Storyboard 6: Smartplant Reader
-Setting: Just any room with a plant and a person
-Players: A person who owns a plant
-Activity: The person is figuring out what a plant likes by attempting several actions towards the plant (watering it or feeding it)
-Goals: Get the plant happy and growing
+**Storyboard 6: Smartplant Reader**
+- Setting: Just any room with a plant and a person
+- Players: A person who owns a plant
+- Activity: The person is figuring out what a plant likes by attempting several actions towards the plant (watering it or feeding it)
+- Goals: Get the plant happy and growing <br>
 So we have a dude who is surprised to see a plant in his room. He sees it is sad so he tries to offer it food. The plant is angry at the offering. The man then offers the plant some water in a bottle and the plant looks neutral. The man finally sprinkles water on the plant and the plant becomes happy. The plant also likes music :D. It gets sad around arguing.
 
-![Screenshot](lab1/6.png)
+![Screenshot](image6.jpg)
 
-Storyboard 7: Plants again but tinkerbell is the pot itself rather than an attachment
-Setting: Just any room with a plant and a person
-Players: A person who owns a plant
-Activity: The person is figuring out what a is good for the plant by attempting several actions towards the plant (watering it, feeding it, providing sunlight) and responding to pot’s assessments
-Goals: Get the plant happy and growing
+**Storyboard 7: Plants again but tinkerbell is the pot itself rather than an attachment**
+- Setting: Just any room with a plant and a person
+- Players: A person who owns a plant
+- Activity: The person is figuring out what a is good for the plant by attempting several actions towards the plant (watering it, feeding it, providing sunlight) and responding to pot’s assessments
+- Goals: Get the plant happy and growing <br>
 So we have a person who is surprised to see a plant in his room. In this scenario, the pot monitors the well-being and emotional state of the plant, and communicates to the person that it is thirsty. Offering food at first makes the pot angry. The man then offers the plant some water in a bottle and the plant looks neutral. The man finally sprinkles water on the plant and the plant becomes happy. The plant also likes music :D. It gets sad around arguing.
 
-![Screenshot](lab1/7.png)
+![Screenshot](image3.jpg)
 
 **Summarize feedback you got here.**
 
@@ -190,15 +185,15 @@ Think about the setting of the device: is the environment a place where the devi
 
 **Include sketches of what your devices might look like here.**
 Clip-on device with screen
-![Screenshot](lab1/8.png)
+![Screenshot](image2.jpg)
 
 Embedded screen 1
 
-![Screenshot](lab1/9.png)
+![Screenshot](image10.jpg)
 
 Embedded screen 2
 
-![Screenshot](lab1/10.png)
+![Screenshot](image8.jpg)
 
 **What concerns or opportunities are influencing the way you've designed the device to look?**
 The main concern was not being able to confuse the device as trash itself. Another concern would be potential contamination from trash being moved over the device. There is potential for water from a water bottle to drip onto the device causing potential water damage. It needs to be dressed to not look like something to throw away as well as be protected from potential garbage, but the latter may be solved with better placement.
@@ -210,11 +205,10 @@ The main concern was not being able to confuse the device as trash itself. Anoth
 Our video: https://youtu.be/y4Ni2OnUtK4
 
 **Please indicate anyone you collaborated with on this Lab.**
-Thomas Wiener (tfw29)
-Zixin Li (zl865)
-Kazim Jafri (khj23)
-Re Chen (rc884)
-
+Thomas Wiener (tfw29) <br>
+Zixin Li (zl865) <br>
+Kazim Jafri (khj23) <br>
+Rei Chen (rc884) <br>
 
 
 # Staging Interaction, Part 2 
