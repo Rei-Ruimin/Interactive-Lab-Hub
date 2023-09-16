@@ -54,11 +54,13 @@ disp = st7789.ST7789(
     height=240,
     x_offset=53,
     y_offset=40,
+    rotation = 90
 )
 # pylint: enable=line-too-long
 
 # Create blank image for drawing.
 # Make sure to create image with mode 'RGB' for full color.
+print(disp.rotation)
 if disp.rotation % 180 == 90:
     height = disp.width  # we swap height/width to rotate it to landscape!
     width = disp.height
@@ -74,7 +76,7 @@ draw = ImageDraw.Draw(image)
 draw.rectangle((0, 0, width, height), outline=0, fill=(0, 0, 0))
 disp.image(image)
 
-image = Image.open("red.jpg")
+image = Image.open("test.jpg")
 backlight = digitalio.DigitalInOut(board.D22)
 backlight.switch_to_output()
 backlight.value = True
@@ -97,4 +99,34 @@ y = scaled_height // 2 - height // 2
 image = image.crop((x, y, x + width, y + height))
 
 # Display image.
+disp.image(image)
+
+
+tangerine_image = Image.open("winterTangerine.png")
+
+# Convert the image to RGBA if it's not
+tangerine_image = tangerine_image.convert("RGBA")
+
+# Make the background transparent
+data = tangerine_image.getdata()
+new_data = []
+for item in data:
+    if item[0] == 255 and item[1] == 255 and item[2] == 255:  # If the item is white
+        new_data.append((255, 255, 255, 0))  # Set its alpha to 0 (fully transparent)
+    else:
+        new_data.append(item)
+tangerine_image.putdata(new_data)
+
+# Resize the tangerine_image to 40x40
+desired_size = (40, 40)
+tangerine_image = tangerine_image.resize(desired_size)
+
+# Calculate the position to center the resized tangerine_image on the main image
+x_position = (width - tangerine_image.width) // 2
+y_position = (height - tangerine_image.height) // 2
+
+# Place the resized image on the main image at the calculated position with transparency handling
+image.paste(tangerine_image, (x_position, y_position+35), tangerine_image)
+
+# Display the combined image
 disp.image(image)
