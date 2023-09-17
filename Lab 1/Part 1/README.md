@@ -102,7 +102,7 @@ A user with a map (dude 1) is exploring unknown terrain. His map changes colors,
 ![Screenshot](3.png)
 
 
-**Storyboard 4: Trash Sorte**r
+**Storyboard 4: Trash Sorter**
 - Setting: The refuse room in buildings in Shanghai. (Shanghai has a mandatory sorting scheme, requiring residents to separate trash into four categories: recyclable, hazardous, wet (perishable) and dry (other) waste, and many people are confused by these categories)
 - Players: A person who is wanting to throw away trash according to categories.
 Activity: When the user shows the trash to the trash sorter, the trash sorter will respond to which kind of trash it is by chasing color. For example blue for recyclable trash, green for wet trash, etc.
