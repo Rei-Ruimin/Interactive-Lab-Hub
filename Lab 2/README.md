@@ -288,6 +288,7 @@ Link to our video:
 
 https://youtu.be/27pX-y4s5iU
 
+
 Task Distribution:
 
 Rowan: Came up with the project idea and designed the storyboard.
