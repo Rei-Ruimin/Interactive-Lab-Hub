@@ -40,7 +40,7 @@ else:
     height = disp.height
 
 
-def display_image(background_file, fruit_file, text):
+def display_image_and_text(background_file, fruit_file, text):
     # Create blank image for drawing.
     image = Image.new("RGB", (width, height))
 
@@ -100,4 +100,4 @@ def display_image(background_file, fruit_file, text):
 
 
 # Example usage:
-display_image("images/background/spring.JPG", "images/fruits/summerWatermelon.png", "100 DAYS UNTIL NEXT SEASON")
+display_image_and_text("images/background/spring.JPG", "images/fruits/summerWatermelon.png", "100 DAYS UNTIL NEXT SEASON")
